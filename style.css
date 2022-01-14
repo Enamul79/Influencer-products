@@ -1,0 +1,21 @@
+body{
+          font-family: 'IBM Plex Mono', monospace;
+          font-family: 'Pacifico', cursive;
+          font-family: 'Poppins', sans-serif;
+          background-color: thistle;
+}
+
+span{
+          margin-right: 475px;
+          Width :243px;
+          Height:52.2px;
+}
+nav{
+          display: flex;
+}
+
+nav a{
+          text-decoration: none;
+          margin-right: 15px;
+}
+
